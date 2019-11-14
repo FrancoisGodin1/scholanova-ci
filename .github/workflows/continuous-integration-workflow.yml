@@ -19,7 +19,7 @@ jobs:
       uses: Harmon758/postgresql-action@v1.0.0
       with: 
         postgresql version: 12
-        postgresql db: Scholanova
+        postgresql db: scholanova
         postgresql user: postgres
         postgres password: root
 
